@@ -11,6 +11,12 @@ Trained models:
 * [daily prediction](https://drive.google.com/file/d/1VZagMppapkVlhxJ0i4uWPjaazcuUrhSt/view?usp=sharing)
 * [hourly prediction](https://drive.google.com/file/d/1ySBWwlw04jS7JuvXP0zm8cztoHxW1H2V/view?usp=sharing)
 
+## TODO
+* requirements file
+* python version
+* check netbooks
+* rename netbooks
+
 ## Authors
 [Bartosz Tyński](https://github.com/tynski)
 [Efe Ergun](https://github.com/efeergun)
