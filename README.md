@@ -9,7 +9,7 @@ The project was run on Python 3.8.5.
 ## Data analysis
 Before we jump into the prediction, we analized the dataset, preprocessed it and handled the missing values. The workflow is presented in Jupyter Notebooks:
 * [daily prediction](daily_pred/first_touches_to_data.ipynb)
-* [hourly prediction](hourly/DataProcessing.ipynb)
+* [hourly prediction](hourly_pred/DataProcessing.ipynb)
 
 ## Data
 Datasets for training and testing purpose:
