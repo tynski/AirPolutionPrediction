@@ -4,8 +4,6 @@ PM 10 distribution prediction with Artificial Neural Network. Our team created t
 ## Usage 
 Clone the repository and go to specific Jupypter Notebooks.
 
-The project was run on Python 3.8.5. 
-
 ## Data analysis
 Before we jump into the prediction, we analized the dataset, preprocessed it and handled the missing values. The workflow is presented in Jupyter Notebooks:
 * [daily prediction](daily_pred/first_touches_to_data.ipynb)
