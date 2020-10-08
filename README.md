@@ -12,7 +12,7 @@ Before we jump into the prediction, we analized the dataset, preprocessed it and
 ## Data
 Datasets for training and testing purpose:
 * [daily prediction](https://www.dropbox.com/s/ycomop6myalhlet/daily_all_03_19_Maj.csv?dl=0)
-* [hourly prediction](https://drive.google.com/file/d/1k85CBo3C4WsBhsFHoUg7OIHuvYaM9tBl/view?usp=sharing)
+* [hourly prediction](https://www.dropbox.com/s/onpi5gs4fga1tq2/data.zip?dl=0)
 
 ## Prediction
 The prediction workflow is presented in Jupyter Notebooks:
