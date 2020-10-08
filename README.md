@@ -16,13 +16,13 @@ Datasets for training and testing purpose:
 
 ## Prediction
 The prediction workflow is presented in Jupyter Notebooks:
-* [daily prediction](daily_pred/Real_Deal.ipynb)
+* [daily prediction](daily_pred/Prediction.ipynb)
 * [hourly prediction](hourly_pred/Prediction.ipynb)
 
 ## Models
 Trained models:
-* [daily prediction](https://drive.google.com/file/d/1VZagMppapkVlhxJ0i4uWPjaazcuUrhSt/view?usp=sharing)
-* [hourly prediction](https://drive.google.com/file/d/1ySBWwlw04jS7JuvXP0zm8cztoHxW1H2V/view?usp=sharing)
+* [daily prediction](https://www.dropbox.com/s/123krelns6n9rwv/daily_model.h5?dl=0)
+* [hourly prediction](https://www.dropbox.com/s/zqg5k3cxtwoelk1/my_model.h5?dl=0)
 
 ## Authors
 * [Bartosz Tyński](https://github.com/tynski)
